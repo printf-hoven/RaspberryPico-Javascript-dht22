@@ -3,7 +3,9 @@ dht22.uf2 is the compiled file that should be copied to the raspberry picow as e
 
 Write to us for any modifications and customizations - our contact can be found in the youtube video linked below, or the website https://hoven.in
 
-Youtube Explanation: https://youtu.be/zgtEQqa-_Lg
+Youtube Video: https://youtu.be/dKmkbvc8xvs
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dKmkbvc8xvs/0.jpg)](https://www.youtube.com/watch?v=dKmkbvc8xvs)
 
 ========self notes for future needs====================
 

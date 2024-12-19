@@ -5,7 +5,7 @@ Write to us for any modifications and customizations - our contact can be found 
 
 Youtube Video: https://youtu.be/dKmkbvc8xvs
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dKmkbvc8xvs/0.jpg)](http://www.youtube.com/watch?v=dKmkbvc8xvs)
+[![Temperature and Humidity Graphs with DHT22, JavaScript and Raspberry ](http://img.youtube.com/vi/dKmkbvc8xvs/0.jpg)](http://www.youtube.com/watch?v=dKmkbvc8xvs)
 
 ========self notes for future needs====================
 
